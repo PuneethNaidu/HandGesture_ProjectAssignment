@@ -92,6 +92,9 @@ Key Logic:
 Implements a coroutine to animate each GameObject's scaling over time.
 Ensures that GameObjects are scaled up one after another, providing a smooth visual sequence.
 
+HandGesture Scenes Folder :
+ Under this folder we can find scenes which i debugged to learn and implement the task, our main scene will be HandGestureScene. Here we can find the respective main task work i have done as per requirements.
+ 
 UI Instructions and Interfaces :
 Flow of the Scene and Event Progression
 Instruction UI 1 : ![Instructions](https://github.com/user-attachments/assets/1e8dc5ac-f600-4673-ad81-fe9b25ecca2d)
