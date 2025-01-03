@@ -1,4 +1,4 @@
-![Instructions](https://github.com/user-attachments/assets/9594a11c-bd8b-4e72-bd08-44aa5dd0204d)Pico Unity Project Setup Guide
+Pico Unity Project Setup Guide
 
  Project Requirements
 - Pico Device OS: 5.9+
